@@ -171,3 +171,12 @@ button {
 	background-color: var(--bg3);
 	color: var(--fg0)
 }
+
+ul {
+	list-style-type: none;
+}
+
+ul > li {
+	padding-left: 25px;
+	color: var(--fg1);
+}

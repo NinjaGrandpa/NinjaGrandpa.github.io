@@ -1,0 +1,140 @@
+{
+  "LANGUAGES": [
+    {
+      "Proficiency": "Full professional proficiency",
+      "Name": "English"
+    },
+    {
+      "Proficiency": "Native or bilingual proficiency",
+      "Name": "Swedish"
+    }
+  ],
+  "SKILLS": [
+    {
+      "Name": "Azure DevOps Services"
+    },
+    {
+      "Name": "ASP.NET Razor"
+    },
+    {
+      "Name": "ASP.NET Core"
+    },
+    {
+      "Name": "Application Programming Interfaces (API)"
+    },
+    {
+      "Name": "ASP.NET Web API"
+    },
+    {
+      "Name": "Continuous Integration and Continuous Delivery (CI/CD)"
+    },
+    {
+      "Name": "Back-End Web Development"
+    },
+    {
+      "Name": "JSON"
+    },
+    {
+      "Name": "Agile Methodologies"
+    },
+    {
+      "Name": "Scrum"
+    },
+    {
+      "Name": "Software Design"
+    },
+    {
+      "Name": ".NET Framework"
+    },
+    {
+      "Name": "C#"
+    },
+    {
+      "Name": "SQL"
+    },
+    {
+      "Name": "Databases"
+    },
+    {
+      "Name": "Database Management System (DBMS)"
+    },
+    {
+      "Name": "Web Development"
+    },
+    {
+      "Name": "Language Integrated Query (LINQ)"
+    },
+    {
+      "Name": "Blazor"
+    },
+    {
+      "Name": "JavaScript"
+    },
+    {
+      "Name": "English"
+    },
+    {
+      "Name": "Communication"
+    },
+    {
+      "Name": "Music Theory"
+    },
+    {
+      "Name": "Rock Music"
+    },
+    {
+      "Name": "Warehouse Operations"
+    }
+  ],
+  "PHONE_NUMBERS": [
+    {
+      "Number": " +46 70 468 81 78",
+      "Extension": "",
+      "Type": ""
+    },
+    {
+      "Number": "",
+      "Extension": "",
+      "Type": ""
+    }
+  ],
+  "EMAIL_ADDRESSES": {
+    "Updated On": "2/20/21, 5:37 AM",
+    "Confirmed": "Yes",
+    "Email Address": "max@jenslov.se",
+    "Primary": "Yes"
+  },
+  "PROFILE": {
+    "Websites": "[PORTFOLIO:https://github.com/NinjaGrandpa]",
+    "Address": "",
+    "Maiden Name": "",
+    "Instant Messengers": "",
+    "First Name": "Max",
+    "Geo Location": "Gothenburg, Västra Götaland County, Sweden",
+    "Twitter Handles": "",
+    "Industry": "Software Development",
+    "Zip Code": "43163",
+    "Headline": "Student at ITHS Göteborg",
+    "Summary": "",
+    "Birth Date": "",
+    "Last Name": "Jenslöv"
+  },
+  "EDUCATION": [
+    {
+      "Activities": "",
+      "Degree Name": "",
+      "Start Date": "Aug 2022",
+      "School Name": "IT-Högskolan",
+      "End Date": "Jun 2024",
+      "Notes": ""
+    },
+    {
+      "Activities": "",
+      "Degree Name": "Teknikprogrammet",
+      "Start Date": "2018",
+      "School Name": "NTI Gymnasiet",
+      "End Date": "2021",
+      "Notes": ""
+    }
+  ]
+}
