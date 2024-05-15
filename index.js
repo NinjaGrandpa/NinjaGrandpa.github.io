@@ -1,5 +1,3 @@
-import { token } from "./config.js"
-
 function calculateSettingAsThemeString({
 	localStorageTheme,
 	systemSettingDark
