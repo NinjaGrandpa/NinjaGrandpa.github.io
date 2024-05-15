@@ -32,6 +32,4 @@ foreach ($domain in $Domains) {
   
 $json = $jsonObjects | ConvertTo-Json
 
-Write-Output $json > .\profileData.json
-
-# $response.Content
+Write-Output $json > "..\data\profileData.json"
