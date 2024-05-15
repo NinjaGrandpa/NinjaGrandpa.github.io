@@ -127,6 +127,8 @@ body {
 	background-color: var(--bg1);
 	width: 290px;
 	padding: 18px;
+	display: flex;
+	flex-direction: column;
 }
 
 .header {
@@ -145,10 +147,14 @@ body {
 
 .content > div {
 	background-color: var(--bg1);
+	padding: 20px
 }
 
-.desc {
-	padding: 20px;
+.profile-title {
+
+}
+
+.profile {
 }
 
 h1 {
@@ -157,11 +163,18 @@ h1 {
 
 button {
 	background-color: var(--bg2);
-	border-color: var(--fg0);
+	color: var(--fg1);
 	border-radius: 5px;
 	border-style: none;
+	cursor: pointer;
+	font-weight: 500;
 }
 
 .theme-button {
 	height: 40px;
+}
+
+.theme-button:hover {
+	background-color: var(--bg3);
+	color: var(--fg0)
 }

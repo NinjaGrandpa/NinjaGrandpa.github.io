@@ -1,3 +1,5 @@
+import { token } from "./config.js"
+
 function calculateSettingAsThemeString({
 	localStorageTheme,
 	systemSettingDark
@@ -32,3 +34,23 @@ button.addEventListener("click", () => {
 
 	currentThemeSetting = newTheme;
 });
+
+window.addEventListener("load", () => {
+	fetch("https://api.linkedin.com/rest/memberSnapshotData?q=criteria", {
+		method: "GET",
+		mode: "cors",	
+		headers: {
+			"Content-Type": "application/json",
+			"Authorization": `Bearer ${token}`,
+			"LinkedIn-Version": 202312
+		},
+		cache: "default"
+	}).then((response) => response.text())
+		.catch((error) => console.error(error))
+		.finally((data) => {
+			document.getElementById("profile-text").innerHTML = data ?? "No Data";
+		})
+
+});
+
+

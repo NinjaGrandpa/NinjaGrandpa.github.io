@@ -1,0 +1,96 @@
+{
+  "paging": {
+    "start": 0,
+    "count": 10,
+    "links": [
+      {
+        "type": "application/json",
+        "rel": "next",
+        "href": "/rest/memberSnapshotData?count=10&q=criteria&start=1"
+      }
+    ],
+    "total": 23
+  },
+  "elements": [
+    {
+      "snapshotData": [
+        {
+          "Name": "Azure DevOps Services"
+        },
+        {
+          "Name": "ASP.NET Razor"
+        },
+        {
+          "Name": "ASP.NET Core"
+        },
+        {
+          "Name": "Application Programming Interfaces (API)"
+        },
+        {
+          "Name": "ASP.NET Web API"
+        },
+        {
+          "Name": "Continuous Integration and Continuous Delivery (CI/CD)"
+        },
+        {
+          "Name": "Back-End Web Development"
+        },
+        {
+          "Name": "JSON"
+        },
+        {
+          "Name": "Agile Methodologies"
+        },
+        {
+          "Name": "Scrum"
+        },
+        {
+          "Name": "Software Design"
+        },
+        {
+          "Name": ".NET Framework"
+        },
+        {
+          "Name": "C#"
+        },
+        {
+          "Name": "SQL"
+        },
+        {
+          "Name": "Databases"
+        },
+        {
+          "Name": "Database Management System (DBMS)"
+        },
+        {
+          "Name": "Web Development"
+        },
+        {
+          "Name": "Language Integrated Query (LINQ)"
+        },
+        {
+          "Name": "Blazor"
+        },
+        {
+          "Name": "JavaScript"
+        },
+        {
+          "Name": "English"
+        },
+        {
+          "Name": "Communication"
+        },
+        {
+          "Name": "Music Theory"
+        },
+        {
+          "Name": "Rock Music"
+        },
+        {
+          "Name": "Warehouse Operations"
+        }
+      ],
+      "snapshotDomain": "SKILLS"
+    }
+  ]
+}
